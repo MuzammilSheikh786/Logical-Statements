@@ -46,8 +46,8 @@ else if(studentPercentage >= 40 && studentPercentage < 50){
 }
 else{
     console.log("Fail");
-    
-}
+}    
+
     
 
 
